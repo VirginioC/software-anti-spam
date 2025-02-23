@@ -1,7 +1,7 @@
 # Analisi e classificazione delle email per la rilevazione di SPAM
 
 ## Descrizione e obiettivi del progetto
-Questo progetto, realizzato durante il Master in Data Science di Profession AI, si propone di sviluppare col linguaggio **Python** su ambiente **Google Colab**, una libreria software per l'analisi e la classificazione delle email, con l'obiettivo di identificare e comprendere meglio le email di tipo spam. Attraverso tecniche di NLP e Machine Learning, il software permette di:
+Questo progetto, realizzato durante il Master in Data Science di ProfessionAI, si propone di sviluppare col linguaggio **Python** su ambiente **Google Colab**, una libreria software per l'analisi e la classificazione delle email, con l'obiettivo di identificare e comprendere meglio le email di tipo spam. Attraverso tecniche di NLP e Machine Learning, il software permette di:
 
 1. **Addestrare un classificatore** per identificare le email SPAM.
 2. **Individuare i topic principali** tra le email classificate come SPAM.
